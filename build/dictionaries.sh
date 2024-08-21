@@ -1,7 +1,7 @@
 #!/bin/bash
 
 readonly TAG=cp-5.3-4
-readonly REPOSITORY=https://anongit.freedesktop.org/git/libreoffice/dictionaries.git
+readonly REPOSITORY=https://git.libreoffice.org/dictionaries.git
 readonly DICTIONARIES=(en/en_GB
                        en/en_US
                        fr_FR/fr

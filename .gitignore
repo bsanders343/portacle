@@ -12,3 +12,4 @@ all/
 ## Other stuff
 config/*
 projects/*
+.DS_Store
