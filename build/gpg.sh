@@ -1,6 +1,6 @@
 #!/bin/bash
 
-readonly TAG=gnupg-2.3.0
+readonly TAG=gnupg-2.4.0
 readonly REPOSITORY=https://github.com/gpg/gnupg
 readonly CONFIGURE_OPTIONS=("")
 
